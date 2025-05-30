@@ -70,5 +70,5 @@ Predictive analytics using Python/R integration in Power BI.
 
 Vehicle type and revenue insights dashboards.
 
-Dasbboards look like
+Dasbboards look like-https://github.com/rohitchauhan2004/OLA-Dashboard/blob/main/Snapshot%20of%20OLA%20Dashboard.png
 
